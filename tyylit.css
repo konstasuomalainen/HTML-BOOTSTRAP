@@ -1,8 +1,57 @@
 .col-6{
-    border: 5px;
+    border: 1px;
+    border-color: black;
+    
+    
     
     }
+
+   
     .container
     {
         margin-top: 70px;
+      
+        font-family:'Times New Roman', Times, serif;
+        
     }
+
+    .navbar
+    {
+        background-color: rgb(227, 193, 0);
+    }
+    
+
+    .card-body
+    {
+        
+        height: 10rem;
+       background-color:khaki;
+       margin-top: 1px;
+       border: 10px;
+       border-style: solid;
+       border-color: burlywood;
+    }
+
+    .card{
+        
+        margin-left: auto;
+        margin-right: auto;
+       
+    }
+    
+    .card-text
+    {
+        font-family:'Times New Roman', Times, serif;
+    }
+
+    
+    
+
+    .card-title
+    {
+        background-color:rgb(201, 101, 14);
+       
+        font-family:'Times New Roman', Times, serif;
+        
+    }
+   
